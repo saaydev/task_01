@@ -1,5 +1,5 @@
 ﻿  TestingTaskRelplaceSymbols.cpp
-C:\Users\root\source\repos\TestingTaskRelplaceSymbols\TestingTaskRelplaceSymbols.cpp(7,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\root\source\repos\TestingTaskRelplaceSymbols\TestingTaskRelplaceSymbols.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\root\source\repos\TestingTaskRelplaceSymbols\TestingTaskRelplaceSymbols.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\root\source\repos\TestingTaskRelplaceSymbols\TestingTaskRelplaceSymbols.cpp(6,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\root\source\repos\TestingTaskRelplaceSymbols\TestingTaskRelplaceSymbols.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\root\source\repos\TestingTaskRelplaceSymbols\TestingTaskRelplaceSymbols.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
   TestingTaskRelplaceSymbols.vcxproj -> C:\Users\root\source\repos\TestingTaskRelplaceSymbols\Debug\TestingTaskRelplaceSymbols.exe

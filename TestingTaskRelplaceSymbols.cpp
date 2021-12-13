@@ -1,5 +1,4 @@
-﻿#include <vector>
-#include <iostream>
+﻿#include <iostream>
 
 // Найти повторяющиеся символы
 int getRepeatCount(std::string search, char symbol) {
